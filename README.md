@@ -12,3 +12,4 @@ Project will be released on [Itch.io](https://saoigames.itch.io/women-in-tech)
 Art from [Art Breeder](artbreeder.com)
 
 Names from [Baby Names from Social Security](https://www.ssa.gov/OACT/babynames/index.html)
+[Baby Name DNA](https://nameberry.com/lists/category/international-names)
